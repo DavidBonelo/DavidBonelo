@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm David Bonelo, a software developer by hobby
+I'm David Bonelo, a software developer in training.
 
 🌱 I’m currently learning **Angular**
 
