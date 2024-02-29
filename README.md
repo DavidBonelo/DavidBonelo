@@ -24,3 +24,16 @@
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+
+## Projects
+
+[![a](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DavidBonelo&repo=david-park&theme=tokyonight)](https://github.com/DavidBonelo/david-park)
+
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+[![GHStats](https://github-readme-stats.vercel.app/api?username=DavidBonelo&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=DavidBonelo&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/DavidBonelo)
+
+### 🏆GitHub Trophies
+
+![Throphies](https://github-profile-trophy.vercel.app/?username=DavidBonelo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
